@@ -17,14 +17,26 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Tianhao Qi is a fourth-year Ph.D. candidate in the Department of Electronic Engineering and Information Science, University of Science and Technology of China, supervised by [Prof. Hongtao Xie](https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/xiehongtao.html) and [Prof. Yongdong Zhang](https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/zhangyongdong.html) in the National Engineering Laboratory for Brain-inspired Intelligence Technology and Application ([NEL-BITA](https://leinao.ustc.edu.cn/main.htm)) and Intelligent Multimedia Content Computing Laboratory ([IMCC](https://imcc.ustc.edu.cn/main.htm)). Before that, I graduated from the Department of Automation, University of Science and Technology of China with a bachelor's degree. Currently, my research interests include cross-modal image/video generation and long-tailed object detection.
+Tianhao Qi is a fifth-year Ph.D. candidate in the Department of Electronic Engineering and Information Science, University of Science and Technology of China, supervised by [Prof. Hongtao Xie](https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/xiehongtao.html) and [Prof. Yongdong Zhang](https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/zhangyongdong.html) in the National Engineering Laboratory for Brain-inspired Intelligence Technology and Application ([NEL-BITA](https://leinao.ustc.edu.cn/main.htm)) and Intelligent Multimedia Content Computing Laboratory ([IMCC](https://imcc.ustc.edu.cn/main.htm)). Before that, I graduated from the Department of Automation, University of Science and Technology of China with a bachelor's degree. Currently, my research interests include cross-modal image/video generation and long-tailed object detection.
 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2025.
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2024 as <span style="color:red">Highlight</span> (11.9%).
 - *2023.08*: &nbsp;🎉🎉 One paper is accepted by TMM.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/I2VControl-Camera.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[I2VControl-Camera: Precise Video Camera Control with Adjustable Motion Strength](https://arxiv.org/abs/2411.06525)
+
+Wanquan Feng, Jiawei Liu, Pengqi Tu, **Tianhao Qi**, Mingzhen Sun, Tianxiang Ma, Songtao Zhao, Siyu Zhou, Qian He
+
+[**Project Page**](https://wanquanf.github.io/I2VControlCamera)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/DEADiff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
