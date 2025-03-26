@@ -31,9 +31,11 @@ Tianhao Qi is a fifth-year Ph.D. candidate in the Department of Electronic Engin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/Mask2DiT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mask<sup>2</sup>DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation]
+[Mask<sup>2</sup>DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation](http://arxiv.org/abs/2503.19881)
 
 **Tianhao Qi**, Jianlong Yuan, Wanquan Feng, Shancheng Fang, Jiawei Liu, SiYu Zhou, Qian HE, Hongtao Xie, Yongdong Zhang
+
+[**Project Page**](https://tianhao-qi.github.io/Mask2DiTProject/) \| [![](https://img.shields.io/github/stars/Tianhao-Qi/Mask2DiT?style=social&label=Code+Stars)](https://github.com/Tianhao-Qi/Mask2DiT) 
 
 </div>
 </div>
