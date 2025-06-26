@@ -19,6 +19,43 @@ redirect_from:
 
 Tianhao Qi is a final-year Ph.D. candidate in the Department of Electronic Engineering and Information Science, University of Science and Technology of China, supervised by [Prof. Hongtao Xie](https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/xiehongtao.html) and [Prof. Yongdong Zhang](https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/zhangyongdong.html) in the National Engineering Laboratory for Brain-inspired Intelligence Technology and Application ([NEL-BITA](https://leinao.ustc.edu.cn/main.htm)) and Intelligent Multimedia Content Computing Laboratory ([IMCC](https://imcc.ustc.edu.cn/main.htm)). Before that, I graduated from the Department of Automation, University of Science and Technology of China with a bachelor's degree. Currently, my research interests include cross-modal image/video generation and long-tailed object detection.
 
+<style>
+  @keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.2; }
+  }
+
+  .blinking-mail {
+    animation: blink 1.2s infinite;
+    display: inline-block;
+    margin-right: 6px;
+  }
+
+  .gradient-text {
+    background: linear-gradient(90deg, #d9480f, #f59f00);  /* 更温和的橙色系 */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+    white-space: nowrap; /* 强制不换行 */
+  }
+</style>
+
+<div style="border: 2px solid #f59f00; border-radius: 10px; padding: 20px; margin: 30px auto; max-width: 720px; background-color: #fffaf0; text-align: center; font-family: 'Helvetica Neue', sans-serif;">
+  <p class="gradient-text" style="font-size: 20px; margin-bottom: 10px;">
+    📢 Seeking Postdoc Opportunities in North America – Spring 2026
+  </p>
+  <p style="font-size: 15px; color: #333; line-height: 1.6;">
+    I am actively looking for a <strong>postdoctoral position starting Spring 2026</strong>.<br>
+    If you are recruiting or open to collaboration, feel free to reach out!
+  </p>
+  <p style="font-size: 15px; margin-top: 16px;">
+    <span class="blinking-mail">📬</span>
+    <a href="mailto:qth@mail.ustc.edu.cn" style="color: #d9480f; text-decoration: none; font-weight: bold;">
+      qth@mail.ustc.edu.cn
+    </a>
+  </p>
+</div>
+
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025.
