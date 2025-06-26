@@ -17,10 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Tianhao Qi is a fifth-year Ph.D. candidate in the Department of Electronic Engineering and Information Science, University of Science and Technology of China, supervised by [Prof. Hongtao Xie](https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/xiehongtao.html) and [Prof. Yongdong Zhang](https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/zhangyongdong.html) in the National Engineering Laboratory for Brain-inspired Intelligence Technology and Application ([NEL-BITA](https://leinao.ustc.edu.cn/main.htm)) and Intelligent Multimedia Content Computing Laboratory ([IMCC](https://imcc.ustc.edu.cn/main.htm)). Before that, I graduated from the Department of Automation, University of Science and Technology of China with a bachelor's degree. Currently, my research interests include cross-modal image/video generation and long-tailed object detection.
+Tianhao Qi is a final-year Ph.D. candidate in the Department of Electronic Engineering and Information Science, University of Science and Technology of China, supervised by [Prof. Hongtao Xie](https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/xiehongtao.html) and [Prof. Yongdong Zhang](https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/zhangyongdong.html) in the National Engineering Laboratory for Brain-inspired Intelligence Technology and Application ([NEL-BITA](https://leinao.ustc.edu.cn/main.htm)) and Intelligent Multimedia Content Computing Laboratory ([IMCC](https://imcc.ustc.edu.cn/main.htm)). Before that, I graduated from the Department of Automation, University of Science and Technology of China with a bachelor's degree. Currently, my research interests include cross-modal image/video generation and long-tailed object detection.
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025.
 - *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025.
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2025.
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2024 as <span style="color:red">Highlight</span> (11.9%).
@@ -28,12 +29,24 @@ Tianhao Qi is a fifth-year Ph.D. candidate in the Department of Electronic Engin
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/I2VControl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[I2VControl: Disentangled and Unified Video Motion Synthesis Control](https://arxiv.org/abs/2411.17765)
+
+Wanquan Feng, **Tianhao Qi**, Jiawei Liu, Mingzhen Sun, Pengqi Tu, Tianxiang Ma, Fei Dai, Songtao Zhao, Siyu Zhou, Qian He
+
+[**Project Page**](https://wanquanf.github.io/I2VControl/)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/Mask2DiT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mask<sup>2</sup>DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation](http://arxiv.org/abs/2503.19881)
 
-**Tianhao Qi**, Jianlong Yuan, Wanquan Feng, Shancheng Fang, Jiawei Liu, SiYu Zhou, Qian HE, Hongtao Xie, Yongdong Zhang
+**Tianhao Qi**, Jianlong Yuan, Wanquan Feng, Shancheng Fang, Jiawei Liu, Siyu Zhou, Qian He, Hongtao Xie, Yongdong Zhang
 
 [**Project Page**](https://tianhao-qi.github.io/Mask2DiTProject/) \| [![](https://img.shields.io/github/stars/Tianhao-Qi/Mask2DiT?style=social&label=Code+Stars)](https://github.com/Tianhao-Qi/Mask2DiT) 
 
@@ -47,7 +60,7 @@ Tianhao Qi is a fifth-year Ph.D. candidate in the Department of Electronic Engin
 
 Wanquan Feng, Jiawei Liu, Pengqi Tu, **Tianhao Qi**, Mingzhen Sun, Tianxiang Ma, Songtao Zhao, Siyu Zhou, Qian He
 
-[**Project Page**](https://wanquanf.github.io/I2VControlCamera)
+[**Project Page**](https://wanquanf.github.io/I2VControlCamera) \| [![](https://img.shields.io/github/stars/WanquanF/I2VControl-Camera?style=social&label=Code+Stars)](https://github.com/WanquanF/I2VControl-Camera.git) 
 </div>
 </div>
 
@@ -56,8 +69,7 @@ Wanquan Feng, Jiawei Liu, Pengqi Tu, **Tianhao Qi**, Mingzhen Sun, Tianxiang Ma,
 
 [DEADiff: An Efficient Stylization Diffusion Model with Disentangled Representations](https://arxiv.org/abs/2403.06951)
 
-**Tianhao Qi**, Shancheng Fang, Yanze Wu, Hongtao Xie, Jiawei Liu,
-Lang Chen, Qian He, Yongdong Zhang
+**Tianhao Qi**, Shancheng Fang, Yanze Wu, Hongtao Xie, Jiawei Liu, Lang Chen, Qian He, Yongdong Zhang
 
 [**Project Page**](https://tianhao-qi.github.io/DEADiff/) \| [![](https://img.shields.io/github/stars/bytedance/DEADiff?style=social&label=Code+Stars)](https://github.com/bytedance/DEADiff) 
 </div>
@@ -92,5 +104,5 @@ Lang Chen, Qian He, Yongdong Zhang
 
 # 🏫 Academic Services
 - ICLR Reviewer: 2025
-- ACMMM Reviewer: 2025
+- ACM MM Reviewer: 2025
 - Journal Reviewer: IJCV, TMM
