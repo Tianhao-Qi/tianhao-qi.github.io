@@ -73,7 +73,7 @@ Tianhao Qi is a final-year Ph.D. candidate in the Department of Electronic Engin
 
 Wanquan Feng, **Tianhao Qi**, Jiawei Liu, Mingzhen Sun, Pengqi Tu, Tianxiang Ma, Fei Dai, Songtao Zhao, Siyu Zhou, Qian He
 
-[**Project Page**](https://wanquanf.github.io/I2VControl/)
+[**Project Page**](https://wanquanf.github.io/I2VControl)
 
 </div>
 </div>
@@ -85,7 +85,7 @@ Wanquan Feng, **Tianhao Qi**, Jiawei Liu, Mingzhen Sun, Pengqi Tu, Tianxiang Ma,
 
 **Tianhao Qi**, Jianlong Yuan, Wanquan Feng, Shancheng Fang, Jiawei Liu, Siyu Zhou, Qian He, Hongtao Xie, Yongdong Zhang
 
-[**Project Page**](https://tianhao-qi.github.io/Mask2DiTProject/) \| [![](https://img.shields.io/github/stars/Tianhao-Qi/Mask2DiT?style=social&label=Code+Stars)](https://github.com/Tianhao-Qi/Mask2DiT) 
+[**Project Page**](https://tianhao-qi.github.io/Mask2DiTProject) \| [![](https://img.shields.io/github/stars/Tianhao-Qi/Mask2DiT?style=social&label=Code+Stars)](https://github.com/Tianhao-Qi/Mask2DiT) 
 
 </div>
 </div>
@@ -108,7 +108,7 @@ Wanquan Feng, Jiawei Liu, Pengqi Tu, **Tianhao Qi**, Mingzhen Sun, Tianxiang Ma,
 
 **Tianhao Qi**, Shancheng Fang, Yanze Wu, Hongtao Xie, Jiawei Liu, Lang Chen, Qian He, Yongdong Zhang
 
-[**Project Page**](https://tianhao-qi.github.io/DEADiff/) \| [![](https://img.shields.io/github/stars/bytedance/DEADiff?style=social&label=Code+Stars)](https://github.com/bytedance/DEADiff) 
+[**Project Page**](https://tianhao-qi.github.io/DEADiff) \| [![](https://img.shields.io/github/stars/bytedance/DEADiff?style=social&label=Code+Stars)](https://github.com/bytedance/DEADiff) 
 </div>
 </div>
 
