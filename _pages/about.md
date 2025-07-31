@@ -40,7 +40,7 @@ Tianhao Qi is a final-year Ph.D. candidate in the Department of Electronic Engin
   }
 </style>
 
-<div style="border: 2px solid #f59f00; border-radius: 10px; padding: 20px; margin: 30px auto; max-width: 720px; background-color: #fffaf0; text-align: center; font-family: 'Helvetica Neue', sans-serif;">
+<!-- <div style="border: 2px solid #f59f00; border-radius: 10px; padding: 20px; margin: 30px auto; max-width: 720px; background-color: #fffaf0; text-align: center; font-family: 'Helvetica Neue', sans-serif;">
   <p class="gradient-text" style="font-size: 20px; margin-bottom: 10px;">
     📢 Seeking Postdoc Opportunities in North America – Spring 2026
   </p>
@@ -54,7 +54,7 @@ Tianhao Qi is a final-year Ph.D. candidate in the Department of Electronic Engin
       qth@mail.ustc.edu.cn
     </a>
   </p>
-</div>
+</div> -->
 
 
 # 🔥 News
