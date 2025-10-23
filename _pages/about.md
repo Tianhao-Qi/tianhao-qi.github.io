@@ -58,6 +58,7 @@ Tianhao Qi is a final-year Ph.D. candidate in the Department of Electronic Engin
 
 
 # 🔥 News
+- *2025.10.20*: &nbsp;🎉🎉 Presented my CVPR 2025 paper *“Mask²DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation”* at the [**1st Workshop on Long Multi-Scene Video Foundations (LongVid@ICCV 2025)**](https://ramoscsv.github.io/longvid_foundations/), Honolulu, HI.
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025.
 - *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025.
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2025.
