@@ -58,7 +58,7 @@ Tianhao Qi is a final-year Ph.D. candidate in the Department of Electronic Engin
 
 
 # 🔥 News
-- *2025.10.20*: &nbsp;🎉🎉 Presented my CVPR 2025 paper *“Mask²DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation”* at the [**1st Workshop on Long Multi-Scene Video Foundations (LongVid@ICCV 2025)**](https://ramoscsv.github.io/longvid_foundations/), Honolulu, HI.
+- *2025.10.20*: &nbsp;🎉🎉 Presented my CVPR 2025 paper *“Mask²DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation”* at the [**1st Workshop on Long Multi-Scene Video Foundations (LongVid@ICCV 2025)**](https://ramoscsv.github.io/longvid_foundations/).
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025.
 - *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025.
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2025.
@@ -141,6 +141,5 @@ Wanquan Feng, Jiawei Liu, Pengqi Tu, **Tianhao Qi**, Mingzhen Sun, Tianxiang Ma,
 - *2019.07 - 2019.08*, Multimedia Communications and Networking Laboratory (MCN), University of Florida (directed by [Dr. Dapeng Oliver Wu](http://www.wu.ece.ufl.edu/)), USA.
 
 # 🏫 Academic Services
-- ICLR Reviewer: 2025
-- ACM MM Reviewer: 2025
-- Journal Reviewer: IJCV, TMM
+- **Conference Reviewer:** ICLR (2025–2026), CVPR (2026), AAAI (2026), ACM MM (2025)
+- **Journal Reviewer:** IJCV, IEEE TMM
