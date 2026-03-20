@@ -67,10 +67,23 @@ Tianhao Qi is a final-year Ph.D. candidate in the Department of Electronic Engin
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/LibraGen.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LibraGen: Playing a Balance Game in Subject-Driven Video Generation](https://arxiv.org/abs/2603.13506)
+
+Jiahao Zhu\*, Shanshan Lao\*, Lijie Liu\*, Gen Li\*, **Tianhao Qi**\*, Wei Han\*, Bingchuan Li\*, FangFang Liu, Zhuowei Chen, Tianxiang Ma, Qian He, Yi Zhou, Xiaohua Xie
+<br> <i>(* indicates equal contribution)</i>
+
+[**Project Page**](https://phantom-video.github.io/LibraGen/) \| [![](https://img.shields.io/github/stars/Phantom-video/LibraGen?style=social&label=Code+Stars)](https://github.com/Phantom-video/LibraGen) 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/I2VControl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[I2VControl: Disentangled and Unified Video Motion Synthesis Control](https://arxiv.org/abs/2411.17765)
+[I2VControl: Disentangled and Unified Video Motion Synthesis Control](https://openaccess.thecvf.com/content/ICCV2025/html/Feng_I2VControl_Disentangled_and_Unified_Video_Motion_Synthesis_Control_ICCV_2025_paper.html)
 
 Wanquan Feng, **Tianhao Qi**, Jiawei Liu, Mingzhen Sun, Pengqi Tu, Tianxiang Ma, Fei Dai, Songtao Zhao, Siyu Zhou, Qian He
 
@@ -141,5 +154,5 @@ Wanquan Feng, Jiawei Liu, Pengqi Tu, **Tianhao Qi**, Mingzhen Sun, Tianxiang Ma,
 - *2019.07 - 2019.08*, Multimedia Communications and Networking Laboratory (MCN), University of Florida (directed by [Dr. Dapeng Oliver Wu](http://www.wu.ece.ufl.edu/)), USA.
 
 # 🏫 Academic Services
-- **Conference Reviewer:** ICLR (2025–2026), CVPR (2026), AAAI (2026), ACM MM (2025)
+- **Conference Reviewer:** ICLR (2025–2026), CVPR (2026), AAAI (2026), ACM MM (2025-2026), ECCV (2026)
 - **Journal Reviewer:** IJCV, IEEE TMM
