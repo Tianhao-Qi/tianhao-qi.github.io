@@ -142,7 +142,7 @@ Wanquan Feng, Jiawei Liu, Pengqi Tu, **Tianhao Qi**, Mingzhen Sun, Tianxiang Ma,
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2020.09 - now*, Ph.D., University of Science and Technology of China, Department of Electronic Engineering and Information Science, Hefei, China. 
+- *2020.09 - 2026.03*, Ph.D., University of Science and Technology of China, Department of Electronic Engineering and Information Science, Hefei, China. 
 - *2016.09 - 2020.06*, Bachelor, University of Science and Technology of China, Department of Automation, Hefei, China. 
 
 <!-- # 💬 Invited Talks
@@ -156,3 +156,7 @@ Wanquan Feng, Jiawei Liu, Pengqi Tu, **Tianhao Qi**, Mingzhen Sun, Tianxiang Ma,
 # 🏫 Academic Services
 - **Conference Reviewer:** ICLR (2025–2026), CVPR (2026), AAAI (2026), ACM MM (2025-2026), ECCV (2026)
 - **Journal Reviewer:** IJCV, IEEE TMM
+
+<div style="margin-top: 60px; text-align: center;">
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=zPcOSvZN-XP6KmAdpp5RfBqS2rrIULJnbqLile06Has&cl=ffffff&w=a"></script>
+</div>
