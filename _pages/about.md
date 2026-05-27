@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my Ph.D. degree in Information and Communication Engineering from the University of Science and Technology of China in March 2026, under the supervision of [Prof. Yongdong Zhang](https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/zhangyongdong.html) and [Prof. Hongtao Xie](https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/xiehongtao.html) at the National Engineering Laboratory for Brain-inspired Intelligence Technology and Application ([NEL-BITA](https://leinao.ustc.edu.cn/main.htm)) and the Intelligent Multimedia Content Computing Laboratory ([IMCC](https://imcc.ustc.edu.cn/main.htm)). Prior to that, I obtained my bachelor's degree in Automation from the University of Science and Technology of China. My current research interests include cross-modal image and video generation and long-tailed object detection.
+I am an incoming Postdoctoral Scholar in the Department of Computer Science and Engineering at the University of California, Santa Cruz, where I will work with [Prof. Yuyin Zhou](https://yuyinzhou.github.io/). I received my Ph.D. degree in Information and Communication Engineering from the University of Science and Technology of China in March 2026, under the supervision of [Prof. Yongdong Zhang](https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/zhangyongdong.html) and [Prof. Hongtao Xie](https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/xiehongtao.html) at the National Engineering Laboratory for Brain-inspired Intelligence Technology and Application ([NEL-BITA](https://leinao.ustc.edu.cn/main.htm)) and the Intelligent Multimedia Content Computing Laboratory ([IMCC](https://imcc.ustc.edu.cn/main.htm)). Prior to that, I obtained my bachelor's degree in Automation from the University of Science and Technology of China. My current research interests include cross-modal image and video generation and long-tailed object detection.
 
 <style>
   @keyframes blink {
@@ -137,9 +137,9 @@ Wanquan Feng, Jiawei Liu, Pengqi Tu, **Tianhao Qi**, Mingzhen Sun, Tianxiang Ma,
 </div>
 </div>
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🎖 Honors and Awards
+- *2025.05*: Best Presentation Award, AI Future--The 7th Academic Forum on Artificial Intelligence of Beijing Universities (Sub-forum: Large Models and Frontier Technologies).
+- *2018.10*: Runner-up, "Brave the Peak" category, the 18th RoboGame Robotics Competition, University of Science and Technology of China ([Rookie Team](https://news.ustc.edu.cn/info/1032/22010.htm), [video](https://www.bilibili.com/video/BV12yGU6SEoq/), [photo](images/robogame_rookie_robot.jpg)).
 
 # 📖 Educations
 - *2020.09 - 2026.03*, Ph.D., University of Science and Technology of China, Department of Electronic Engineering and Information Science, Hefei, China. 
