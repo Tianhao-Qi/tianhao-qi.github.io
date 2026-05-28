@@ -138,7 +138,7 @@ Wanquan Feng, Jiawei Liu, Pengqi Tu, **Tianhao Qi**, Mingzhen Sun, Tianxiang Ma,
 </div>
 
 # 🎖 Honors and Awards
-- *2025.05*: Best Presentation Award, AI Future--The 7th Academic Forum on Artificial Intelligence of Beijing Universities (Sub-forum: Large Models and Frontier Technologies).
+- *2025.05*: Best Presentation Award, AI Future--The 7th Academic Forum on Artificial Intelligence of Beijing Universities (Sub-forum: Large Models and Frontier Technologies) ([report](https://mp.weixin.qq.com/s/X_QtBxNh6veYT9VFC3FhWQ)).
 - *2018.10*: Runner-up, "Brave the Peak" category, the 18th RoboGame Robotics Competition, University of Science and Technology of China ([Rookie Team](https://news.ustc.edu.cn/info/1032/22010.htm), [video](https://www.bilibili.com/video/BV12yGU6SEoq/), [photo](images/robogame_rookie_robot.jpg)).
 
 # 📖 Educations
