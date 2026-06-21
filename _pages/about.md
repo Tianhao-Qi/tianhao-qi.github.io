@@ -58,6 +58,8 @@ I am an incoming Postdoctoral Scholar in the Department of Computer Science and 
 
 
 # 🔥 News
+- *2026.06.18*: &nbsp;🎉🎉 One paper is accepted by ECCV 2026.
+- *2026.03.20*: &nbsp;🎓🎓 I graduated from the University of Science and Technology of China.
 - *2025.10.20*: &nbsp;🎉🎉 Presented my CVPR 2025 paper *“Mask²DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation”* at the [**1st Workshop on Long Multi-Scene Video Foundations (LongVid@ICCV 2025)**](https://ramoscsv.github.io/longvid_foundations/).
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025.
 - *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025.
@@ -67,7 +69,7 @@ I am an incoming Postdoctoral Scholar in the Department of Computer Science and 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/LibraGen.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/LibraGen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LibraGen: Playing a Balance Game in Subject-Driven Video Generation](https://arxiv.org/abs/2603.13506)
@@ -75,7 +77,7 @@ I am an incoming Postdoctoral Scholar in the Department of Computer Science and 
 Jiahao Zhu\*, Shanshan Lao\*, Lijie Liu\*, Gen Li\*, **Tianhao Qi**\*, Wei Han\*, Bingchuan Li\*, FangFang Liu, Zhuowei Chen, Tianxiang Ma, Qian He, Yi Zhou, Xiaohua Xie
 <br> <i>(* indicates equal contribution)</i>
 
-[**Project Page**](https://phantom-video.github.io/LibraGen/) \| [![](https://img.shields.io/github/stars/Phantom-video/LibraGen?style=social&label=Code+Stars)](https://github.com/Phantom-video/LibraGen) 
+[**Project Page**](https://phantom-video.github.io/LibraGen/) \| [**arXiv**](https://arxiv.org/abs/2603.13506) \| [![](https://img.shields.io/github/stars/Phantom-video/LibraGen?style=social&label=Code+Stars)](https://github.com/Phantom-video/LibraGen)
 
 </div>
 </div>
@@ -158,5 +160,5 @@ Wanquan Feng, Jiawei Liu, Pengqi Tu, **Tianhao Qi**, Mingzhen Sun, Tianxiang Ma,
 - **Journal Reviewer:** IJCV, IEEE TMM
 
 <div style="margin-top: 60px; text-align: center;">
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=zPcOSvZN-XP6KmAdpp5RfBqS2rrIULJnbqLile06Has&cl=ffffff&w=a"></script>
+  <iframe src="https://revolvermaps2.com/widget/bcc8f665-0698-42ef-a316-44a5c318acb8" width="320" height="320" style="border:0;" loading="lazy"></iframe>
 </div>
