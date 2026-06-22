@@ -160,5 +160,5 @@ Wanquan Feng, Jiawei Liu, Pengqi Tu, **Tianhao Qi**, Mingzhen Sun, Tianxiang Ma,
 - **Journal Reviewer:** IJCV, IEEE TMM
 
 <div style="margin-top: 60px; text-align: center;">
-  <iframe src="https://revolvermaps2.com/widget/bcc8f665-0698-42ef-a316-44a5c318acb8" width="320" height="320" scrolling="no" style="width: 320px; height: 320px; max-width: 100%; border: 0; overflow: hidden;" loading="lazy"></iframe>
+  <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=I4kKDp6ugK_jHZD7oy9sEfLu-hVTug_OPz58yboogOo&cl=ffffff&w=a"></script>
 </div>
