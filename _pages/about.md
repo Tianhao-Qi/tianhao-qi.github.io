@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming Postdoctoral Scholar in the Department of Computer Science and Engineering at the University of California, Santa Cruz, where I will work with [Prof. Yuyin Zhou](https://yuyinzhou.github.io/). I received my Ph.D. degree in Information and Communication Engineering from the University of Science and Technology of China in March 2026, under the supervision of [Prof. Yongdong Zhang](https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/zhangyongdong.html) and [Prof. Hongtao Xie](https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/xiehongtao.html) at the National Engineering Laboratory for Brain-inspired Intelligence Technology and Application ([NEL-BITA](https://leinao.ustc.edu.cn/main.htm)) and the Intelligent Multimedia Content Computing Laboratory ([IMCC](https://imcc.ustc.edu.cn/main.htm)). Prior to that, I obtained my bachelor's degree in Automation from the University of Science and Technology of China. My current research interests include cross-modal image and video generation and long-tailed object detection.
+I am an incoming Postdoctoral Scholar in the Department of Computer Science and Engineering at the University of California, Santa Cruz, where I will work with [Prof. Yuyin Zhou](https://yuyinzhou.github.io/) and [Prof. Cihang Xie](https://cihangxie.github.io/) in the [VLAA Lab](https://ucsc-vlaa.github.io/). I received my Ph.D. degree in Information and Communication Engineering from the University of Science and Technology of China in March 2026, under the supervision of [Prof. Yongdong Zhang](https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/zhangyongdong.html) and [Prof. Hongtao Xie](https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/xiehongtao.html) at the National Engineering Laboratory for Brain-inspired Intelligence Technology and Application ([NEL-BITA](https://leinao.ustc.edu.cn/main.htm)) and the Intelligent Multimedia Content Computing Laboratory ([IMCC](https://imcc.ustc.edu.cn/main.htm)). Prior to that, I obtained my bachelor's degree in Automation from the University of Science and Technology of China. My current research interests include cross-modal image and video generation and long-tailed object detection.
 
 <style>
   @keyframes blink {
@@ -159,6 +159,6 @@ Wanquan Feng, Jiawei Liu, Pengqi Tu, **Tianhao Qi**, Mingzhen Sun, Tianxiang Ma,
 - **Conference Reviewer:** ICLR (2025–2026), CVPR (2026), AAAI (2026), ACM MM (2025-2026), ECCV (2026)
 - **Journal Reviewer:** IJCV, IEEE TMM
 
-<div style="margin-top: 60px; text-align: center;">
+<div style="margin: 45px auto 0; max-width: 520px; text-align: center;">
   <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=I4kKDp6ugK_jHZD7oy9sEfLu-hVTug_OPz58yboogOo&cl=ffffff&w=a"></script>
 </div>
