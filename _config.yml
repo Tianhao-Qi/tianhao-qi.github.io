@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tianhao Qi"
-description              : "Tianhao Qi received his Ph.D. degree from the University of Science and Technology of China in March 2026."
+description              : "Tianhao Qi is a Postdoctoral Scholar in Computer Science and Engineering at the University of California, Santa Cruz."
 repository               : "Tianhao-Qi/tianhao-qi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,14 +23,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tianhao Qi"
   avatar           : "images/tianhao.jpg"
-  bio              : "University of Science and Technology of China (USTC)"
-  location         : "Hefei, China"
-  employer         :
+  bio              : "Postdoctoral Scholar at UC Santa Cruz"
+  location         : "Santa Cruz, CA"
+  employer         : "Baskin School of Engineering"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=eU_veu0AAAAJ&hl=en"
-  email            : "qth@mail.ustc.edu.cn"
+  email            : "tqi20@ucsc.edu"
+  uri              : "https://campusdirectory.ucsc.edu/cd_detail?guid=G131216415"
   researchgate     : "https://www.researchgate.net/profile/Tianhao-Qi"
-  uri              :
   bitbucket        :
   codepen          :
   dribbble         :

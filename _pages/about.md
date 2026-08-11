@@ -17,47 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming Postdoctoral Scholar in the Department of Computer Science and Engineering at the University of California, Santa Cruz, where I will work with [Prof. Yuyin Zhou](https://yuyinzhou.github.io/) and [Prof. Cihang Xie](https://cihangxie.github.io/) in the [VLAA Lab](https://ucsc-vlaa.github.io/). I received my Ph.D. degree in Information and Communication Engineering from the University of Science and Technology of China in March 2026, under the supervision of [Prof. Yongdong Zhang](https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/zhangyongdong.html) and [Prof. Hongtao Xie](https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/xiehongtao.html) at the National Engineering Laboratory for Brain-inspired Intelligence Technology and Application ([NEL-BITA](https://leinao.ustc.edu.cn/main.htm)) and the Intelligent Multimedia Content Computing Laboratory ([IMCC](https://imcc.ustc.edu.cn/main.htm)). Prior to that, I obtained my bachelor's degree in Automation from the University of Science and Technology of China. My current research interests include cross-modal image and video generation and long-tailed object detection.
+I am a Postdoctoral Scholar in the Department of Computer Science and Engineering at the University of California, Santa Cruz, where I work with [Prof. Yuyin Zhou](https://yuyinzhou.github.io/) and [Prof. Cihang Xie](https://cihangxie.github.io/) in the [VLAA Lab](https://ucsc-vlaa.github.io/). My research focuses on visual content generation, world models, and AI agents.
 
-<style>
-  @keyframes blink {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0.2; }
-  }
-
-  .blinking-mail {
-    animation: blink 1.2s infinite;
-    display: inline-block;
-    margin-right: 6px;
-  }
-
-  .gradient-text {
-    background: linear-gradient(90deg, #d9480f, #f59f00);  /* 更温和的橙色系 */
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-weight: bold;
-    white-space: nowrap; /* 强制不换行 */
-  }
-</style>
-
-<!-- <div style="border: 2px solid #f59f00; border-radius: 10px; padding: 20px; margin: 30px auto; max-width: 720px; background-color: #fffaf0; text-align: center; font-family: 'Helvetica Neue', sans-serif;">
-  <p class="gradient-text" style="font-size: 20px; margin-bottom: 10px;">
-    📢 Seeking Postdoc Opportunities in North America – Spring 2026
-  </p>
-  <p style="font-size: 15px; color: #333; line-height: 1.6;">
-    I am actively looking for a <strong>postdoctoral position starting Spring 2026</strong>.<br>
-    If you are recruiting or open to collaboration, feel free to reach out!
-  </p>
-  <p style="font-size: 15px; margin-top: 16px;">
-    <span class="blinking-mail">📬</span>
-    <a href="mailto:qth@mail.ustc.edu.cn" style="color: #d9480f; text-decoration: none; font-weight: bold;">
-      qth@mail.ustc.edu.cn
-    </a>
-  </p>
-</div> -->
-
+I received my Ph.D. degree in Information and Communication Engineering from the University of Science and Technology of China in March 2026, under the supervision of [Prof. Yongdong Zhang](https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/zhangyongdong.html) and [Prof. Hongtao Xie](https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/xiehongtao.html) at the National Engineering Laboratory for Brain-inspired Intelligence Technology and Application ([NEL-BITA](https://leinao.ustc.edu.cn/main.htm)) and the Intelligent Multimedia Content Computing Laboratory ([IMCC](https://imcc.ustc.edu.cn/main.htm)). Prior to that, I obtained my bachelor's degree in Automation from the University of Science and Technology of China.
 
 # 🔥 News
+- *2026.08.01*: &nbsp;🎉🎉 I joined the University of California, Santa Cruz as a Postdoctoral Scholar.
 - *2026.06.18*: &nbsp;🎉🎉 One paper is accepted by ECCV 2026.
 - *2026.03.20*: &nbsp;🎓🎓 I graduated from the University of Science and Technology of China.
 - *2025.10.20*: &nbsp;🎉🎉 Presented my CVPR 2025 paper *“Mask²DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation”* at the [**1st Workshop on Long Multi-Scene Video Foundations (LongVid@ICCV 2025)**](https://ramoscsv.github.io/longvid_foundations/).
@@ -151,8 +116,9 @@ Wanquan Feng, Jiawei Liu, Pengqi Tu, **Tianhao Qi**, Mingzhen Sun, Tianxiang Ma,
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2023.02 - now*, [ByteDance](https://www.bytedance.com/) <img src='images/bytedance.png' style='width: 6em;'>, China.
+# 💼 Work Experience
+- *2026 - present*, Postdoctoral Scholar, [University of California, Santa Cruz](https://www.ucsc.edu/), USA.
+- *2023.02 - 2026*, Research Intern, [ByteDance](https://www.bytedance.com/) <img src='images/bytedance.png' style='width: 6em;'>, China.
 - *2019.07 - 2019.08*, Multimedia Communications and Networking Laboratory (MCN), University of Florida (directed by [Dr. Dapeng Oliver Wu](http://www.wu.ece.ufl.edu/)), USA.
 
 # 🏫 Academic Services
