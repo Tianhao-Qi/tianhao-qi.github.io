@@ -22,22 +22,27 @@ I am a Postdoctoral Scholar in the Department of Computer Science and Engineerin
 I received my Ph.D. degree in Information and Communication Engineering from the University of Science and Technology of China in March 2026, under the supervision of [Prof. Yongdong Zhang](https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/zhangyongdong.html) and [Prof. Hongtao Xie](https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/xiehongtao.html) at the National Engineering Laboratory for Brain-inspired Intelligence Technology and Application ([NEL-BITA](https://leinao.ustc.edu.cn/main.htm)) and the Intelligent Multimedia Content Computing Laboratory ([IMCC](https://imcc.ustc.edu.cn/main.htm)). Prior to that, I obtained my bachelor's degree in Automation from the University of Science and Technology of China.
 
 # 🔥 News
+- *2026.10.11*: &nbsp;🎉🎉 One paper is accepted by IEEE TCSVT.
 - *2026.08.01*: &nbsp;🎉🎉 I joined the University of California, Santa Cruz as a Postdoctoral Scholar.
 - *2026.06.18*: &nbsp;🎉🎉 One paper is accepted by ECCV 2026.
 - *2026.03.20*: &nbsp;🎓🎓 I graduated from the University of Science and Technology of China.
 - *2025.10.20*: &nbsp;🎉🎉 Presented my CVPR 2025 paper *“Mask²DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation”* at the [**1st Workshop on Long Multi-Scene Video Foundations (LongVid@ICCV 2025)**](https://ramoscsv.github.io/longvid_foundations/).
-- *2025.06*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025.
-- *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025.
-- *2025.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2025.
-- *2024.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2024 as <span style="color:red">Highlight</span> (11.9%).
-- *2023.08*: &nbsp;🎉🎉 One paper is accepted by TMM.
+- *2025.06.26*: &nbsp;🎉🎉 One paper is accepted by ICCV 2025.
+- *2025.02.27*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025.
+- *2025.01.23*: &nbsp;🎉🎉 One paper is accepted by ICLR 2025.
+- *2024.02.27*: &nbsp;🎉🎉 One paper is accepted by CVPR 2024 as <span style="color:red">Highlight</span> (11.9%).
+- *2023.08.22*: &nbsp;🎉🎉 One paper is accepted by TMM.
 
-# 📝 Publications 
+<span class='anchor' id='-publications'></span>
+
+# 📝 Selected Publications
+
+<a href="{{ '/publications/' | relative_url }}" target="_self">Full publication list, including preprints →</a>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/LibraGen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LibraGen: Playing a Balance Game in Subject-Driven Video Generation](https://arxiv.org/abs/2603.13506)
+[LibraGen: Playing a Balance Game in Subject-Driven Video Generation](https://link.springer.com/chapter/10.1007/978-3-032-37271-0_18)
 
 Jiahao Zhu\*, Shanshan Lao\*, Lijie Liu\*, Gen Li\*, **Tianhao Qi**\*, Wei Han\*, Bingchuan Li\*, FangFang Liu, Zhuowei Chen, Tianxiang Ma, Qian He, Yi Zhou, Xiaohua Xie
 <br> <i>(* indicates equal contribution)</i>
@@ -54,7 +59,7 @@ Jiahao Zhu\*, Shanshan Lao\*, Lijie Liu\*, Gen Li\*, **Tianhao Qi**\*, Wei Han\*
 
 Wanquan Feng, **Tianhao Qi**, Jiawei Liu, Mingzhen Sun, Pengqi Tu, Tianxiang Ma, Fei Dai, Songtao Zhao, Siyu Zhou, Qian He
 
-[**Project Page**](https://wanquanf.github.io/I2VControl)
+[**Project Page**](https://wanquanf.github.io/I2VControl) \| [**arXiv**](https://arxiv.org/abs/2411.17765)
 
 </div>
 </div>
@@ -66,7 +71,7 @@ Wanquan Feng, **Tianhao Qi**, Jiawei Liu, Mingzhen Sun, Pengqi Tu, Tianxiang Ma,
 
 **Tianhao Qi**, Jianlong Yuan, Wanquan Feng, Shancheng Fang, Jiawei Liu, Siyu Zhou, Qian He, Hongtao Xie, Yongdong Zhang
 
-[**Project Page**](https://tianhao-qi.github.io/Mask2DiTProject) \| [![](https://img.shields.io/github/stars/Tianhao-Qi/Mask2DiT?style=social&label=Code+Stars)](https://github.com/Tianhao-Qi/Mask2DiT) 
+[**Project Page**](https://tianhao-qi.github.io/Mask2DiTProject) \| [**arXiv**](https://arxiv.org/abs/2503.19881) \| [![](https://img.shields.io/github/stars/Tianhao-Qi/Mask2DiT?style=social&label=Code+Stars)](https://github.com/Tianhao-Qi/Mask2DiT)
 
 </div>
 </div>
@@ -74,11 +79,11 @@ Wanquan Feng, **Tianhao Qi**, Jiawei Liu, Mingzhen Sun, Pengqi Tu, Tianxiang Ma,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/I2VControl-Camera.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[I2VControl-Camera: Precise Video Camera Control with Adjustable Motion Strength](https://arxiv.org/abs/2411.06525)
+[I2VControl-Camera: Precise Video Camera Control with Adjustable Motion Strength](https://proceedings.iclr.cc/paper_files/paper/2025/hash/7bd4a7d0e6773072c2e3c77b11d93065-Abstract-Conference.html)
 
 Wanquan Feng, Jiawei Liu, Pengqi Tu, **Tianhao Qi**, Mingzhen Sun, Tianxiang Ma, Songtao Zhao, Siyu Zhou, Qian He
 
-[**Project Page**](https://wanquanf.github.io/I2VControlCamera) \| [![](https://img.shields.io/github/stars/WanquanF/I2VControl-Camera?style=social&label=Code+Stars)](https://github.com/WanquanF/I2VControl-Camera.git) 
+[**Project Page**](https://wanquanf.github.io/I2VControlCamera) \| [**arXiv**](https://arxiv.org/abs/2411.06525) \| [![](https://img.shields.io/github/stars/WanquanF/I2VControl-Camera?style=social&label=Code+Stars)](https://github.com/WanquanF/I2VControl-Camera.git)
 </div>
 </div>
 
@@ -89,7 +94,7 @@ Wanquan Feng, Jiawei Liu, Pengqi Tu, **Tianhao Qi**, Mingzhen Sun, Tianxiang Ma,
 
 **Tianhao Qi**, Shancheng Fang, Yanze Wu, Hongtao Xie, Jiawei Liu, Lang Chen, Qian He, Yongdong Zhang
 
-[**Project Page**](https://tianhao-qi.github.io/DEADiff) \| [![](https://img.shields.io/github/stars/bytedance/DEADiff?style=social&label=Code+Stars)](https://github.com/bytedance/DEADiff) 
+[**Project Page**](https://tianhao-qi.github.io/DEADiff) \| [**arXiv**](https://arxiv.org/abs/2403.06951) \| [![](https://img.shields.io/github/stars/bytedance/DEADiff?style=social&label=Code+Stars)](https://github.com/bytedance/DEADiff)
 </div>
 </div>
 
@@ -100,30 +105,30 @@ Wanquan Feng, Jiawei Liu, Pengqi Tu, **Tianhao Qi**, Mingzhen Sun, Tianxiang Ma,
 
 **Tianhao Qi**, Hongtao Xie, Pandeng Li, Jiannan Ge, Yongdong Zhang
 
-[![](https://img.shields.io/github/stars/Tianhao-Qi/BACL?style=social&label=Code+Stars)](https://github.com/Tianhao-Qi/BACL) 
+[**arXiv**](https://arxiv.org/abs/2308.02213) \| [![](https://img.shields.io/github/stars/Tianhao-Qi/BACL?style=social&label=Code+Stars)](https://github.com/Tianhao-Qi/BACL)
 </div>
 </div>
 
 # 🎖 Honors and Awards
-- *2025.05*: Best Presentation Award, AI Future--The 7th Academic Forum on Artificial Intelligence of Beijing Universities (Sub-forum: Large Models and Frontier Technologies) ([report](https://mp.weixin.qq.com/s/X_QtBxNh6veYT9VFC3FhWQ)).
-- *2018.10*: Runner-up, "Brave the Peak" category, the 18th RoboGame Robotics Competition, University of Science and Technology of China ([Rookie Team](https://news.ustc.edu.cn/info/1032/22010.htm), [video](https://www.bilibili.com/video/BV12yGU6SEoq/), [photo](images/robogame_rookie_robot.jpg)).
+- *2025.05.17*: Best Presentation Award, AI Future--The 7th Academic Forum on Artificial Intelligence of Beijing Universities (Sub-forum: Large Models and Frontier Technologies) ([report](https://mp.weixin.qq.com/s/X_QtBxNh6veYT9VFC3FhWQ)).
+- *2018.10.21*: Runner-up, "Brave the Peak" category, the 18th RoboGame Robotics Competition, University of Science and Technology of China ([Rookie Team](https://news.ustc.edu.cn/info/1032/22010.htm), [video](https://www.bilibili.com/video/BV12yGU6SEoq/), [photo](images/robogame_rookie_robot.jpg)).
 
 # 📖 Educations
-- *2020.09 - 2026.03*, Ph.D., University of Science and Technology of China, Department of Electronic Engineering and Information Science, Hefei, China. 
-- *2016.09 - 2020.06*, Bachelor, University of Science and Technology of China, Department of Automation, Hefei, China. 
+- *2020.09.01 – 2026.03.20*, Ph.D., University of Science and Technology of China, Department of Electronic Engineering and Information Science, Hefei, China.
+- *2016.09.01 – 2020.06.30*, Bachelor, University of Science and Technology of China, Department of Automation, Hefei, China.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💼 Work Experience
-- *2026 - present*, Postdoctoral Scholar, [University of California, Santa Cruz](https://www.ucsc.edu/), USA.
-- *2023.02 - 2026*, Research Intern, [ByteDance](https://www.bytedance.com/) <img src='images/bytedance.png' style='width: 6em;'>, China.
-- *2019.07 - 2019.08*, Multimedia Communications and Networking Laboratory (MCN), University of Florida (directed by [Dr. Dapeng Oliver Wu](http://www.wu.ece.ufl.edu/)), USA.
+- *2026.08.01 – present*, Postdoctoral Scholar, [University of California, Santa Cruz](https://www.ucsc.edu/), USA.
+- *2023.02.06 – 2026.07.17*, Research Intern, [ByteDance](https://www.bytedance.com/) <img src='images/bytedance.png' style='width: 6em;'>, China.
+- *2019.07.15 – 2019.08.23*, Multimedia Communications and Networking Laboratory (MCN), University of Florida (directed by [Dr. Dapeng Oliver Wu](http://www.wu.ece.ufl.edu/)), USA.
 
 # 🏫 Academic Services
-- **Conference Reviewer:** ICLR (2025–2026), CVPR (2026), AAAI (2026), ACM MM (2025-2026), ECCV (2026)
-- **Journal Reviewer:** IJCV, IEEE TMM
+- **Conference Reviewer:** ICLR (2025–2026), CVPR (2026), AAAI (2026–2027), ACM MM (2025–2026), ECCV (2026)
+- **Journal Reviewer:** IJCV, IEEE TMM, IEEE TPAMI
 
 <div style="margin: 45px auto 0; max-width: 520px; text-align: center;">
   <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=I4kKDp6ugK_jHZD7oy9sEfLu-hVTug_OPz58yboogOo&cl=ffffff&w=a"></script>
