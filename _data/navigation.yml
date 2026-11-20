@@ -18,11 +18,14 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  # - title: "Invited Talks"
-  #   url: "/#-invited-talks"
+  - title: "Talks"
+    url: "/#-talks"
 
   - title: "Work Experience"
     url: "/#-work-experience"
 
   - title: "Academic Services"
     url: "/#-academic-services"
+
+  - title: "Contact"
+    url: "/#-contact"

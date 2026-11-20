@@ -11,6 +11,10 @@ description              : "Tianhao Qi is a Postdoctoral Scholar in Computer Sci
 repository               : "Tianhao-Qi/tianhao-qi.github.io"
 google_scholar_stats_use_cdn : true
 
+# Formspree form ID for the CV / collaboration request form (the part after https://formspree.io/f/).
+# While this is empty, the form opens the visitor's email app instead of submitting online.
+formspree_id             : ""
+
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
@@ -43,7 +47,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "tianhao-qi-1ab0112a3"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0000-0003-3649-5263"
   pinterest        :

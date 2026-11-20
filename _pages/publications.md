@@ -15,12 +15,12 @@ For selected work with visual previews, see <a href="{{ '/#-selected-publication
 
 ### 2026
 
-- **V2R-OVS: Visual-to-Visual Retrieval for Promptless Training-Free Open-Vocabulary Segmentation with Self-Organized Prototypes**  
+- **[V2R-OVS: Visual-to-Visual Retrieval for Promptless Training-Free Open-Vocabulary Segmentation with Self-Organized Prototypes](https://ieeexplore.ieee.org/document/11741264/)**  
   Wanting Yin, Jiannan Ge, Sun-Ao Liu, Zhiying Lu, **Tianhao Qi**, Hongtao Xie<sup>†</sup>  
-  *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2026 (accepted 2026.10.11).*
+  *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2026.*
 
 - **[LibraGen: Playing a Balance Game in Subject-Driven Video Generation](https://link.springer.com/chapter/10.1007/978-3-032-37271-0_18)**  
-  Jiahao Zhu\*, Shanshan Lao\*, Lijie Liu\*, Gen Li\*, **Tianhao Qi**\*, Wei Han\*, Bingchuan Li\*, FangFang Liu, Zhuowei Chen, Tianxiang Ma, Qian He, Yi Zhou, Xiaohua Xie  
+  Jiahao Zhu\*, Shanshan Lao\*, Lijie Liu\*, Gen Li\*, **Tianhao Qi**\*, Wei Han\*, Bingchuan Li\*, Fangfang Liu, Zhuowei Chen, Tianxiang Ma, Qian He, Yi Zhou<sup>†</sup>, Xiaohua Xie<sup>†</sup>  
   *ECCV 2026.*  
   [Project Page](https://phantom-video.github.io/LibraGen/) \| [arXiv](https://arxiv.org/abs/2603.13506) \| [Code](https://github.com/Phantom-video/LibraGen)
 
@@ -45,7 +45,7 @@ For selected work with visual previews, see <a href="{{ '/#-selected-publication
 
 - **[DEADiff: An Efficient Stylization Diffusion Model with Disentangled Representations](https://openaccess.thecvf.com/content/CVPR2024/html/Qi_DEADiff_An_Efficient_Stylization_Diffusion_Model_with_Disentangled_Representations_CVPR_2024_paper.html)**  
   **Tianhao Qi**, Shancheng Fang, Yanze Wu, Hongtao Xie<sup>†</sup>, Jiawei Liu, Lang Chen, Qian He, Yongdong Zhang  
-  *CVPR 2024, Highlight.*  
+  *CVPR 2024, Highlight (2.8% of submissions).*  
   [Project Page](https://tianhao-qi.github.io/DEADiff) \| [arXiv](https://arxiv.org/abs/2403.06951) \| [Code](https://github.com/bytedance/DEADiff)
 
 ### 2023
@@ -69,7 +69,7 @@ For selected work with visual previews, see <a href="{{ '/#-selected-publication
   *arXiv preprint, 2026.*  
   [Project Page](https://automedbench.github.io/) \| [arXiv](https://arxiv.org/abs/2606.01961) \| [Code](https://github.com/AutoMedBench/AutoMedBench)
 
-- **[A Decade of Deep Learning-based Biomedical Image Segmentation](https://www.biorxiv.org/content/10.64898/2026.04.27.721127v1.abstract)**  
+- **[A Decade of Deep Learning-based Biomedical Image Segmentation](https://www.biorxiv.org/content/10.64898/2026.04.27.721127v1)**  
   Suhao Yu\*, Haojin Wang\*, Ningsen Wang\*, Sicheng Chen\*, Juncheng Wu, Zhenlong Yuan, **Tianhao Qi**<sup>†</sup>, Zongwei Zhou, Fei Xia<sup>†</sup>, Jun Ma, Yuyin Zhou<sup>†</sup>  
   *bioRxiv preprint, 2026.*  
-  [Project Page](https://suhaoyu1020.github.io/MedicalSegmentation-PromptType-Website/) \| [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.04.27.721127v1.abstract) \| [Paper List](https://github.com/haojinw0027/Awesome-Promptable-Medical-Image-Segmentation)
+  [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.04.27.721127v1) \| [Code](https://github.com/haojinw0027/Awesome-Promptable-Medical-Image-Segmentation)

@@ -1,0 +1,154 @@
+{% comment %}
+  CV / collaboration request form.
+  Submissions go to Formspree when `formspree_id` is set in _config.yml;
+  otherwise the form falls back to opening the visitor's mail client.
+{% endcomment %}
+{% assign rf_email = site.author.email %}
+{% if site.formspree_id and site.formspree_id != "" %}
+  {% assign rf_endpoint = "https://formspree.io/f/" | append: site.formspree_id %}
+{% else %}
+  {% assign rf_endpoint = "" %}
+{% endif %}
+
+<style>
+  .request-form { max-width: 640px; margin: 1em 0 2em; padding: 1.25em 1.4em 1.4em; border: 1px solid #e3e6ea; border-radius: 6px; background: #fafbfc; }
+  .request-form .rf-row { display: flex; gap: 0.9em; flex-wrap: wrap; }
+  .request-form .rf-field { flex: 1 1 220px; margin-bottom: 0.9em; }
+  .request-form label, .request-form .rf-legend { display: block; margin: 0 0 0.3em; font-size: 0.85em; font-weight: bold; color: #494e52; }
+  .request-form .rf-optional { font-weight: normal; color: #8a9096; }
+  .request-form input[type="text"], .request-form input[type="email"], .request-form textarea {
+    display: block; width: 100%; margin: 0; padding: 0.5em 0.65em; font: inherit; font-size: 0.9em; color: #333;
+    background: #fff; border: 1px solid #cfd4da; border-radius: 4px; box-shadow: none; box-sizing: border-box; }
+  .request-form textarea { min-height: 7.5em; resize: vertical; }
+  .request-form input:focus, .request-form textarea:focus { outline: none; border-color: #224b8d; box-shadow: 0 0 0 2px rgba(34, 75, 141, 0.18); }
+  .request-form .rf-types { display: flex; gap: 0.5em; flex-wrap: wrap; margin-bottom: 0.9em; }
+  .request-form .rf-types input { position: absolute; opacity: 0; pointer-events: none; }
+  .request-form .rf-types label { margin: 0; padding: 0.4em 0.9em; font-size: 0.85em; font-weight: normal; color: #224b8d; background: #fff; border: 1px solid #224b8d; border-radius: 999px; cursor: pointer; }
+  .request-form .rf-types input:checked + label { color: #fff; background: #224b8d; }
+  .request-form .rf-types input:focus-visible + label { box-shadow: 0 0 0 2px rgba(34, 75, 141, 0.35); }
+  .request-form .rf-hp { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+  .request-form .rf-actions { display: flex; align-items: center; gap: 1em; flex-wrap: wrap; }
+  .request-form button { padding: 0.55em 1.3em; font: inherit; font-size: 0.9em; font-weight: bold; color: #fff; background: #224b8d; border: 0; border-radius: 4px; cursor: pointer; }
+  .request-form button:hover { background: #1a3a6e; }
+  .request-form button[disabled] { opacity: 0.6; cursor: default; }
+  .request-form .rf-status { font-size: 0.85em; margin: 0; }
+  .request-form .rf-status.is-ok { color: #1e7b34; }
+  .request-form .rf-status.is-error { color: #b3261e; }
+  .request-form .rf-note { margin: 0.9em 0 0; font-size: 0.78em; color: #8a9096; }
+</style>
+
+<form class="request-form" id="request-form" action="{{ rf_endpoint }}" method="POST" data-endpoint="{{ rf_endpoint }}" data-email="{{ rf_email }}" novalidate>
+  <div class="rf-legend">I would like to</div>
+  <div class="rf-types" role="radiogroup" aria-label="Request type">
+    <input type="radio" name="request_type" id="rf-type-cv" value="CV request" checked><label for="rf-type-cv">Request your CV</label>
+    <input type="radio" name="request_type" id="rf-type-collab" value="Collaboration"><label for="rf-type-collab">Discuss a collaboration</label>
+    <input type="radio" name="request_type" id="rf-type-other" value="Other"><label for="rf-type-other">Something else</label>
+  </div>
+
+  <div class="rf-row">
+    <div class="rf-field">
+      <label for="rf-name">Name</label>
+      <input type="text" id="rf-name" name="name" autocomplete="name" required>
+    </div>
+    <div class="rf-field">
+      <label for="rf-email">Email</label>
+      <input type="email" id="rf-email" name="email" autocomplete="email" required>
+    </div>
+  </div>
+
+  <div class="rf-field">
+    <label for="rf-affiliation">Affiliation <span class="rf-optional">(company or university)</span></label>
+    <input type="text" id="rf-affiliation" name="affiliation" autocomplete="organization" required>
+  </div>
+
+  <div class="rf-field">
+    <label for="rf-message" id="rf-message-label">What is the CV for? <span class="rf-optional">(role, team, or context)</span></label>
+    <textarea id="rf-message" name="message" required></textarea>
+  </div>
+
+  <div class="rf-hp" aria-hidden="true">
+    <label for="rf-gotcha">Leave this field empty</label>
+    <input type="text" id="rf-gotcha" name="_gotcha" tabindex="-1" autocomplete="off">
+  </div>
+
+  <div class="rf-actions">
+    <button type="submit" id="rf-submit">Send request</button>
+    <p class="rf-status" id="rf-status" role="status" aria-live="polite"></p>
+  </div>
+  <p class="rf-note">Your details are used only to reply to this request. You can also reach me directly at <a href="mailto:{{ rf_email }}">{{ rf_email }}</a>.</p>
+</form>
+
+<script>
+(function () {
+  var form = document.getElementById('request-form');
+  if (!form) { return; }
+  var endpoint = form.getAttribute('data-endpoint');
+  var email = form.getAttribute('data-email');
+  var status = document.getElementById('rf-status');
+  var button = document.getElementById('rf-submit');
+  var messageLabel = document.getElementById('rf-message-label');
+  var prompts = {
+    'CV request': 'What is the CV for? <span class="rf-optional">(role, team, or context)</span>',
+    'Collaboration': 'What would you like to work on together?',
+    'Other': 'Message'
+  };
+
+  function currentType() {
+    var checked = form.querySelector('input[name="request_type"]:checked');
+    return checked ? checked.value : 'Other';
+  }
+
+  function setStatus(text, kind) {
+    status.textContent = text;
+    status.className = 'rf-status' + (kind ? ' is-' + kind : '');
+  }
+
+  Array.prototype.forEach.call(form.querySelectorAll('input[name="request_type"]'), function (radio) {
+    radio.addEventListener('change', function () { messageLabel.innerHTML = prompts[currentType()]; });
+  });
+
+  form.addEventListener('submit', function (event) {
+    event.preventDefault();
+    var name = form.elements['name'].value.trim();
+    var from = form.elements['email'].value.trim();
+    var affiliation = form.elements['affiliation'].value.trim();
+    var message = form.elements['message'].value.trim();
+    var type = currentType();
+
+    if (!name || !from || !affiliation || !message) {
+      setStatus('Please fill in all fields.', 'error');
+      return;
+    }
+    if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(from)) {
+      setStatus('Please enter a valid email address.', 'error');
+      return;
+    }
+
+    var subject = '[Homepage] ' + type + ' from ' + name + ' (' + affiliation + ')';
+
+    if (!endpoint) {
+      var body = 'Name: ' + name + '\nEmail: ' + from + '\nAffiliation: ' + affiliation + '\nRequest: ' + type + '\n\n' + message;
+      window.location.href = 'mailto:' + email + '?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body);
+      setStatus('Your email app should open with the request filled in. If it does not, please write to ' + email + '.', 'ok');
+      return;
+    }
+
+    var data = new FormData(form);
+    data.append('_subject', subject);
+    button.disabled = true;
+    setStatus('Sending...', '');
+
+    fetch(endpoint, { method: 'POST', body: data, headers: { 'Accept': 'application/json' } })
+      .then(function (response) {
+        if (!response.ok) { throw new Error('Request failed'); }
+        form.reset();
+        messageLabel.innerHTML = prompts[currentType()];
+        setStatus('Thank you. Your request has been sent and I will reply by email.', 'ok');
+      })
+      .catch(function () {
+        setStatus('Sending failed. Please email me directly at ' + email + '.', 'error');
+      })
+      .then(function () { button.disabled = false; });
+  });
+})();
+</script>
