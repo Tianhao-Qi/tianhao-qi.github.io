@@ -12,8 +12,8 @@ repository               : "Tianhao-Qi/tianhao-qi.github.io"
 google_scholar_stats_use_cdn : true
 
 # Formspree form ID for the CV / collaboration request form (the part after https://formspree.io/f/).
-# While this is empty, the form opens the visitor's email app instead of submitting online.
-formspree_id             : ""
+# If this is left empty, the form opens the visitor's email app instead of submitting online.
+formspree_id             : "mvkabaen"
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
